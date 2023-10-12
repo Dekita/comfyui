@@ -6,9 +6,6 @@
 
 checkpoints_urls=(
     "https://civitai.com/api/download/models/165039"
-    "https://example.com/checkpoint1"
-    "https://example.com/checkpoint2"
-    "https://example.com/checkpoint3"
 )
 
 vaes_urls=(
